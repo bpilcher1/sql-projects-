@@ -26,4 +26,4 @@ Welcome to my SQL projects, a platform where I showcase my expertise in harnessi
 
   <b>click link below to enter project list</b>
   
-  ## https://github.com/taviaknowles/SQLProjects_TK
+  ## https://github.com/bpilcher1/BreaPilcher_Projects
