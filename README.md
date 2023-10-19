@@ -21,7 +21,7 @@ Welcome to my SQL projects, a platform where I showcase my expertise in harnessi
 - <b>2.TODO list database stats/</b>
 - <b>3.Project: Design a store database</b>
 - <b>4.Challenge: Karaoke song selector</b>
-- <b>5.Challenge: Playlist maker</b>
+- <b>5.Project: Data dig</b>
 - <b>6.Challenge: Gradebook</b>
 
   <b>click link below to enter project list</b>
